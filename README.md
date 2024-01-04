@@ -1,2 +1,2 @@
 # scheduling-email
-Scheduling send email with nodejs
+Scheduling send email using nodejs
