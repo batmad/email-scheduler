@@ -5,6 +5,7 @@ Scheduling send email using nodejs
 1. Install package NPM
 ```
 // with npm
+npm init
 npm install fs
 npm install node-cron
 npm install time-stamp
