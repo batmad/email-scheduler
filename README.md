@@ -1,4 +1,4 @@
-# Scheduling Email
+# Email Scheduler
 Scheduling send email using nodejs
 
 # Installation
